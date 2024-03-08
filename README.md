@@ -11,7 +11,7 @@ Associated code and files for different procedures are separated into distinct d
 - `simulation_files`: starter files to reproduce simulations 
 - `msm_notebooks`: Jupyter notebooks to build MSMs for different protein--ligand systems
 - `figures`: contains all figures from the main text
-- `SI_figures`: contains all figures from the Supporting Information
+- `SI`: contains all figures from the Supporting Information and sample trajectory frames to visualize
 
 ### Requirements
 The content here relies primarily on open-source tools and we provide files to reproduce the environment we used to run the analyses. Some materials require an OpenEye license, which is free for academics.
